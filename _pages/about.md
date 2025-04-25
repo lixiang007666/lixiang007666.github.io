@@ -21,7 +21,7 @@ redirect_from:
 
 我在[河北工业大学机械工程学院](https://mes.hebut.edu.cn/)获得了学士学位。随后，我在[哈尔滨工业大学机器人技术与系统全国重点实验室](http://robot.hit.edu.cn/)攻读硕士学位。现在，我正在香港理工大学[RAIDS课题组](https://www.raids.group/)在[郑湃教授](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/)的指导下攻读博士学位。
 
-我的研究兴趣包括机器人学习与人机协作。我已经在SCI期刊上发表了6篇论文，申请了1项发明专利，获得了3项实用新型专利和1项软件著作权。
+我的研究兴趣包括机器人学习与人机协作。我已经在SCI期刊上发表了5篇论文，申请了1项发明专利，获得了3项实用新型专利和1项软件著作权。
 
 
 
