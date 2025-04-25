@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "教育背景"
-    url: "/#-educations"
+    url: "/#-教育背景"
 
   - title: "发表论文"
-    url: "/#-publications"
+    url: "/#-发表论文"
 
   - title: "项目经历"
-    url: "/#-projects"
+    url: "/#-项目经历"
 
   - title: "荣誉奖项"
-    url: "/#-honors-and-awards"
+    url: "/#-荣誉奖项"
 
   - title: "社会经历"
-    url: "/#-societies"
+    url: "/#-社会经历"
 
   - title: "English"
     url: "https://academic.mahaofei.com/"

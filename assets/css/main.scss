@@ -40,6 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+@import "{{ site.theme }}";
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -116,4 +118,44 @@ h1:before, .anchor:before {
     font-size: 15px; //.6875em;
     border: 0px solid #f2f3f3;
     border-radius: 0
+}
+
+.author__name {
+  text-align: center;
+  width: 100%;
+  margin-top: 1em;
+}
+
+.author__bio {
+  text-align: center;
+  width: 100%;
+}
+
+.author__avatar {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-right: 0;
+}
+  
+.author__avatar img {
+  margin: 0 auto;
+}
+
+.author__urls-wrapper {
+  text-align: center;
+}
+
+.author__content {
+  text-align: center;
+  padding-left: 0;
+}
+
+.sidebar.sticky {
+  text-align: center;
+}
+
+.author__location {
+  text-align: center;
+  width: 100%;
 }

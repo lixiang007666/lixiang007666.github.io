@@ -31,7 +31,7 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📖 教育经历
+# 📖 教育背景
 - *2024.09 - 至今*, [香港理工大学](https://www.polyu.edu.hk/), 香港。
 - *2022.09 - 2024.06*, [哈尔滨工业大学](https://www.hit.edu.cn/), 哈尔滨, (成绩: 90.65, 排名: 13/177)。
 - *2018.09 - 2022.06*, [河北工业大学](https://www.hebut.edu.cn/), 天津, (GPA: 3.95/4, 排名: 1/133)。

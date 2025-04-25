@@ -87,7 +87,8 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
+    text-align: center;
     height: auto;
   }
 
@@ -95,6 +96,7 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    margin: 0 auto;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -116,6 +118,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
@@ -125,6 +128,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
   }
 }
 
@@ -142,6 +146,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
   }
 }
 
@@ -163,6 +168,7 @@
 
   @include breakpoint($large) {
     display: block;
+    text-align: center;
   }
 
   button {
@@ -197,6 +203,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    text-align: center;
   }
 
   &:before {
