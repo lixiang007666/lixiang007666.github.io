@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='关于本人'></span>
 
 我目前是[香港理工大学(PolyU)](https://www.polyu.edu.hk/)[工业及系统工程学系](https://www.polyu.edu.hk/en/ise/)[RAIDS课题组](https://www.raids.group/)的博士研究生，主要从事机器人学习、人机协作的研究。
 
@@ -31,12 +31,14 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📖 教育背景
+# 📖 教育经历
+<span class='anchor' id='教育背景'></span>
 - *2024.09 - 至今*, [香港理工大学](https://www.polyu.edu.hk/), 香港。
 - *2022.09 - 2024.06*, [哈尔滨工业大学](https://www.hit.edu.cn/), 哈尔滨, (成绩: 90.65, 排名: 13/177)。
 - *2018.09 - 2022.06*, [河北工业大学](https://www.hebut.edu.cn/), 天津, (GPA: 3.95/4, 排名: 1/133)。
 
 # 📝 发表论文
+<span class='anchor' id='发表论文'></span>
 
 ## 📃 期刊论文
 
@@ -90,6 +92,7 @@ redirect_from:
 
 
 # 🔍 项目经历
+<span class='anchor' id='项目经历'></span>
 
 <!-- Project -->
 
@@ -220,7 +223,8 @@ redirect_from:
 </div>
 
 
-# 🏆 荣誉与奖项
+# 🏆 荣誉奖项
+<span class='anchor' id='荣誉奖项'></span>
 
 ## 🏅 荣誉
 - *2024.06*, 哈尔滨工业大学·鹤皋奖学金
@@ -248,6 +252,7 @@ redirect_from:
 - *2019.06*, 数学竞赛省级二等奖
 
 # 💼 社会工作
+<span class='anchor' id='社会工作'></span>
 
 - *2023.02 - 2023.07*, 哈尔滨工业大学学院办公室助理
 - *2022.02 - 2022.06*, 河北工业大学班长
