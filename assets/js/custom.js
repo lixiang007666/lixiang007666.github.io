@@ -22,4 +22,14 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     }
   });
+  
+  // 特别处理English链接
+  var englishLink = document.getElementById('english-link');
+  if (englishLink) {
+    englishLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      // 在当前页面打开链接
+      window.location.href = this.getAttribute('href');
+    });
+  }
 }); 
