@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[香港理工大学(PolyU)](https://www.polyu.edu.hk/)[工业及系统工程学系](https://www.polyu.edu.hk/en/ise/)[RAIDS课题组](https://www.raids.group/)的博士研究生，主要从事机器人学习、人机协作的研究。
+我目前是[香港理工大学(PolyU)](https://www.polyu.edu.hk/)，[工程学院](https://www.polyu.edu.hk/feng/)，[工业及系统工程学系](https://www.polyu.edu.hk/en/ise/)，[RAIDS课题组](https://www.raids.group/)的博士研究生，主要从事机器人学习、人机协作的研究。
 
 我在[河北工业大学机械工程学院](https://mes.hebut.edu.cn/)获得了学士学位。随后，我在[哈尔滨工业大学机器人技术与系统全国重点实验室](http://robot.hit.edu.cn/)攻读硕士学位。现在，我正在香港理工大学[RAIDS课题组](https://www.raids.group/)在[郑湃教授](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/)的指导下攻读博士学位。
-
-我的研究兴趣包括机器人学习与人机协作。我已经在SCI期刊上发表了5篇论文，申请了1项发明专利，获得了3项实用新型专利和1项软件著作权。
-
 
 
 <!-- 
